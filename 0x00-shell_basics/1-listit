@@ -1,5 +1,2 @@
 #!/bin/bash
-total 8
--rwxr--r-- 1 root root 16 Feb  7 23:47 0-current_working_directory
--rwxr--r-- 1 root root  0 Feb  8 02:21 1-listit
--rw-r--r-- 1 root root 65 Feb  7 23:43 README.md
+-rwxr--r-- 1 root root 16 Feb  7 23:47 0-current_working_directory  -rwxr--r-- 1 root root  0 Feb  8 02:21 1-listit -rw-r--r-- 1 root root 65 Feb  7 23:43 README.md
