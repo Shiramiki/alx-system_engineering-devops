@@ -1,5 +1,5 @@
 #!/bin/bash
 git add .
 git commit -m "change by rachel"
-echo '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'
+echo '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'
 git push
